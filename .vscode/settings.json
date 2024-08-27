@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "E:/test/samer/linux",
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.useCMakePresets": "always"
+}
